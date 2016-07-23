@@ -142,17 +142,6 @@
     </build>
 
 
-    <!-- More Project Information -->
-    <name>enterprise-template</name>
-    <description>The projects is a template for creating Java Enterprise Application</description>
-    <developers>
-        <developer>
-            <name>Burylov Artyom</name>
-            <email>swsms@mail.ru</email>
-        </developer>
-    </developers>
-
-
     <!-- Environment Settings -->
     <prerequisites>
         <maven>3.3.0</maven>
